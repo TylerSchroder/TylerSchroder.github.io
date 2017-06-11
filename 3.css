@@ -1,0 +1,78 @@
+
+    body {
+      background-color: #DBD5B2;
+      height: 100%;
+      width: 95%;
+    }
+
+    header {
+        padding-bottom: 50px;
+        border: 10px solid #A5D3FF;
+        font-family: "Brush Script MT", cursive;
+        font-weight: 100;
+        color: white;
+        background-image: url("http://www.experiencebreck.com/images/mountains_banner.jpg");
+    }
+    h1 {
+        font-weight: lighter;
+        padding-top: 1px;
+        margin: 0;
+    }
+    nav {
+        float: left;
+        padding: 5px;
+        border-top: 5px solid #000000;
+        border-bottom: 5px solid #000000;
+        font: normal small-caps normal 18px/1.4 Georgia;
+        padding-left: 0;
+        margin-left: 0;
+    }
+    nav ul {
+        padding: ;
+        margin-left: 0;
+        float: left;
+        border-bottom: ;
+        list-style-type: none;
+    }
+    nav li {
+        float: left;
+    }
+    nav li a {
+        display: block;
+        height: 25px;
+        padding: 12px 18px 8px 18px;
+        vertical-align: middle;
+    }
+    a {
+        color: green;
+    }
+    section {
+        width: 95%;
+        display: inline-block;
+        float: left;
+        font: normal bold 15px/1.4 Arial;
+        margin: 15px;
+}
+    }
+    aside {
+        width: 17%;
+        display: inline-block;
+        background-color:;
+        padding:;
+        min-height: 100%;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    footer {
+        width: 790px;
+        background-color:;
+        color:;
+        clear: both;
+        display: block;
+    }
+
+    img {
+      width: 75%;
+      height: 75%;
+      }

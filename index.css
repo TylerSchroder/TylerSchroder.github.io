@@ -1,0 +1,120 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+    html {
+      height: 100%;
+    }
+    body {
+       height: 100%;
+       background-color: #B8BF61;
+    }
+
+    header {
+        background-color: #6B630D;
+        padding-left: 100px;
+        padding-top: 110px;
+        padding-bottom: 0px;
+        border: 0px solid #000000;
+        margin-left: 20px;
+        margin-bottom: 0px;
+        font-size: 50px;
+        display: block;
+        text-align: left
+    }
+    h1{
+      padding-bottom: -100px;
+      margin-bottom: -10px;
+      font: bold 85px  helvetica, sans-serif;
+      color : #B8BF61;
+      line-height: 0.6;
+    }
+    h2{
+      padding-top: 0px 0px 0px 0px;
+      margin-bottom: 0px;
+      font: bold 34px  helvetica, sans-serif;
+      color : #B8BF61;
+      line-height: 0.7;
+    }
+    nav {
+        float: center;
+        text-align: center;
+    }
+    nav ul {
+        padding: ;
+        float: center;
+        border-bottom: ;
+        list-style-type: none;
+        text-align: center;
+  }
+    nav li {
+        float: left;
+        text-align: center;
+    }
+    nav li a {
+        display: block;
+        height: 25px;
+        padding: 12px 18px 8px 18px;
+        vertical-align: middle;
+        text-align: center;
+        color: green
+    }
+    nav li a:hover {
+      color: white
+      }
+    section {
+        width: 100%;
+        display: inline-block;
+        float: left;
+    }
+    img {
+    display: block;
+    margin: 0 auto;
+    padding: 0px 10% 0px 10%;
+    background-color: white;
+}
+    article {
+      padding-top: 0px;
+      padding-left: 20px;
+      padding-bottom: 0px;
+      margin-left: 20px;
+      margin-top: 0px;
+      margin-bottom: 0px;
+      background: linear-gradient(to right, #3E6E61 , #B8BF61);
+      color:white;
+      font: italic normal 16px helvetica, sans-serif;
+    }
+    .bg0 {
+      padding-top: 0px;
+      padding-left: 20px;
+      padding-bottom: 0px;
+      margin-left: 20px;
+      margin-bottom: 0px;
+      margin-top: 0px;
+      background: linear-gradient(to right, #3E6E61 , #B8BF61);
+    }
+    .bg1 {
+      padding-top: 0px;
+      padding-left: 20px;
+      margin-left: 20px;
+      margin-bottom: 0px;
+      margin-top: 0px;
+      background: linear-gradient(to right, #B86E61 , #B8BF61);
+    }
+    aside {
+        width: 17%;
+        display: inline-block;
+        background-color:;
+        padding:;
+        min-height: 100%;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    footer {
+        width: 790px;
+        background-color:;
+        color:;
+        clear: both;
+        display: block;
+    }
